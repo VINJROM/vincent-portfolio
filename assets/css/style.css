@@ -35,8 +35,9 @@ body {
   /* background: url("../../assets/img/background.png"); */
 }
 
-#projimg {
+.project-img {
   max-width: 200px;
+  max-height: 200px;
 }
 
 .navbar.navbar-default {
@@ -58,6 +59,7 @@ body {
   margin-bottom: 100px;
   display: flex;
   align-items: center;
+  background-attachment: fixed;
 }
 
 .header-col {
