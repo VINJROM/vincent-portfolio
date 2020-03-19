@@ -53,13 +53,13 @@ body {
 .row-header {
   padding: 10vh 10vw 0 10vw;
   background-image: url("../../assets/img/mpls.jpg");
+  /* background-attachment: fixed; */
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: center;
   background-size: cover;
   margin-bottom: 100px;
   display: flex;
   align-items: center;
-  background-attachment: fixed;
 }
 
 .header-col {
