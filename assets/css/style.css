@@ -8,9 +8,7 @@ h5 {
   font-family: "Open Sans", sans-serif;
 }
 
-h2
-
-p {
+h2 p {
   color: #4a4e69;
   font-weight: 300;
   font-family: "Open Sans", sans-serif;
@@ -53,13 +51,17 @@ body {
 .row-header {
   padding: 10vh 10vw 0 10vw;
   background-image: url("../../assets/img/mpls.jpg");
-  /* background-attachment: fixed; */
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   margin-bottom: 100px;
   display: flex;
   align-items: center;
+}
+
+.space {
+  margin-top: 30vh;
 }
 
 .header-col {
