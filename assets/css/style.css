@@ -134,12 +134,14 @@ body {
 .row-footer {
   padding: 0vh 10vw 10vw 10vw;
   margin-top: 100px;
-  background-color: #4a4e69;
-  /* background-image: url("http://www.ci.minneapolis.mn.us/www/groups/public/@communications/documents/images/mpls-skyline-stonearchbridge.png"); */
+  /* background-color: #4a4e69; */
+  background-image: url("../../assets/img/mpls.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  background-attachment: fixed;
+  align-items: center;
 }
 
 .footer-col {
