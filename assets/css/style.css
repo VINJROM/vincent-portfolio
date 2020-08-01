@@ -50,7 +50,7 @@ body {
 
 .row-header {
   padding: 10vh 10vw 0 10vw;
-  background-image: url("../../assets/img/mpls.jpg");
+  background-image: url("../../assets/img/aspen.jpeg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center;
@@ -135,7 +135,7 @@ body {
   padding: 0vh 10vw 10vw 10vw;
   margin-top: 100px;
   /* background-color: #4a4e69; */
-  background-image: url("../../assets/img/mpls.jpg");
+  background-image: url("../../assets/img/aspen.jpeg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
